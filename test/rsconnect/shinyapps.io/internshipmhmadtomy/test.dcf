@@ -1,0 +1,12 @@
+name: test
+title: test
+username:
+account: internshipmhmadtomy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3643978
+bundleId: 4229115
+url: https://internshipmhmadtomy.shinyapps.io/test/
+when: 1613466558.04517
+asMultiple: FALSE
+asStatic: FALSE
